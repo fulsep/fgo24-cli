@@ -1,0 +1,8 @@
+mkdir "Latihan CLI Dasar"
+cd "Latihan CLI Dasar"
+"" > latihan.txt
+---
+---
+---
+---
+---
